@@ -8,6 +8,8 @@ Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (C
 - 🐍 Cursando **Python** no **Estudonauta**.
 - 💻 Estudando **C# (C-Sharp)** no **Estudonauta**.
 - 🌐 Desenvolvimento Web: **HTML5 e CSS3** no **Estudonauta**.
+- 🐧 Cursando **Linux** no **Estudonauta**.
+- 🔐 Concluído curso de **Segurança da Informação** no **Estudonauta**.
 - 🔭 No momento, estou organizando meu portfólio e consolidando meus conhecimentos técnicos.
 
 ## 🛠 Tecnologias e Ferramentas
