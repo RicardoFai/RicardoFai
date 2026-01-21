@@ -5,6 +5,7 @@ Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (C
 
 - 🎓 Graduação: Gestão em TI (IF Sudeste MG).
 - 🛡️ Formação **Analista de Cybersecurity** pela **Cisco Networking Academy**.
+- 🤖 Concluído o curso de **Inteligência Artificial** no **Estudonauta**.
 - 🐍 Cursando **Python** no **Estudonauta**.
 - 💻 Estudando **C# (C-Sharp)** no **Estudonauta**.
 - 🌐 Desenvolvimento Web: **HTML5 e CSS3** no **Estudonauta**.
