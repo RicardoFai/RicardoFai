@@ -19,6 +19,8 @@ Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (C
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![IA](https://img.shields.io/badge/Inteligência_Artificial-5E5E5E?style=for-the-badge&logo=openai&logoColor=white)
+![CyberSecurity](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
 
 ## 📫 Como me encontrar
 - **LinkedIn**: [https://www.linkedin.com/in/ricardo-da-silva-348406372/]
