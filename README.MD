@@ -4,6 +4,7 @@
 Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (Campus São João del-Rei)** e estou me especializando em desenvolvimento e segurança da informação.
 
 - 🎓 Graduação: Gestão em TI (IF Sudeste MG).
+- 🎓 **Ciência da Computação:** Seguindo o currículo da [**Universidade Brasileira Livre (UBL)**](https://github.com/RicardoFai/universidade-brasileira-livre).
 - 🛡️ Formação **Analista de Cybersecurity** pela **Cisco Networking Academy**.
 - 🤖 Concluído o curso de **Inteligência Artificial** no **Estudonauta**.
 - 🐍 Cursando **Python** no **Estudonauta**.
@@ -21,6 +22,7 @@ Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (C
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![IA](https://img.shields.io/badge/Inteligência_Artificial-5E5E5E?style=for-the-badge&logo=openai&logoColor=white)
 ![CyberSecurity](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
+![UBL](https://img.shields.io/badge/UBL-Ciência_da_Computação-blue?style=for-the-badge&logo=education&logoColor=white)
 
 ## 📫 Como me encontrar
 - **LinkedIn**: [https://www.linkedin.com/in/ricardo-da-silva-348406372/]
