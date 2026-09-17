@@ -1,9 +1,6 @@
 # Olá, eu sou o Ricardo! 
 
-  ![Luffy](https://github.com/RicardoFai/RicardoFai/raw/main/imagemgif-ezgif.com-video-to-gif-converter%20(1)%20(1).gif)
-
-
-
+![Luffy](https://github.com/RicardoFai/RicardoFai/raw/main/imagemgif-ezgif.com-video-to-gif-converter%20(1).gif)
 ## 🚀 Sobre mim
 Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (Campus São João del-Rei)** e estou me especializando em desenvolvimento e segurança da informação.
 
