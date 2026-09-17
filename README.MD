@@ -1,5 +1,7 @@
 # Olá, eu sou o Ricardo! 👋
 
+  <img src="./imagemgif-ezgif.com-video-to-gif-converter (1) (1).gif" alt="Luffy programando no escritório" width="1000">
+  
 ## 🚀 Sobre mim
 Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (Campus São João del-Rei)** e estou me especializando em desenvolvimento e segurança da informação.
 
