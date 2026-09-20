@@ -1,4 +1,3 @@
-
 # 🎭 Olá, eu sou o Ricardo!
 
 ![Luffy](https://github.com/RicardoFai/RicardoFai/blob/main/imagem.gif)
@@ -13,7 +12,7 @@ Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (C
 * ♾️ **Trilha DevOps Engineer** na **DIO (Digital Innovation One)**.
 * 🧠 **Concluído o curso de Inteligência Artificial** no **Estudonauta**.
 * 🐍 **Cursando Python** no **Estudonauta**.
-* 💻 **Estudando C# (C-Sharp)** no **Estudonauta**.
+* ⚡ **Estudando JavaScript**.
 * 🌐 **Desenvolvimento Web:** HTML5 e CSS3 no **Estudonauta**.
 * 🐧 **Cursando Linux** no **Estudonauta**.
 * 🔐 **Concluído curso de Segurança da Informação** no **Estudonauta**.
@@ -21,7 +20,7 @@ Sou estudante de **Gestão em Tecnologia da Informação** no **IF Sudeste MG (C
 
 ## 🛠️ Tecnologias e Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%232329120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%2323049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white)
